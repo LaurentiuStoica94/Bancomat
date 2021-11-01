@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+.idea
+AtmNotifications.txt
+ClientNotifications.txt
+/build/
+/build/classes/java/main/
+/build/classes/java/test/
